@@ -1,5 +1,83 @@
-Hola mundo
-Pruebas para el curso
-segundas pruebas de los comandos ADD y COMMIT
-tercera prueba, comando fetch
-yeahh
+[33mcommit 82df20d693c8bc310a1d0e3267d554d01117605e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Tue Oct 15 01:02:06 2019 +0200
+
+    cambios en hola.txt
+
+[33mcommit ec2b4bf979705eefe9b11ff797eab02dfcbac269[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Tue Oct 15 00:54:14 2019 +0200
+
+    otro cambio
+
+[33mcommit c1e3841f7ab3d3f057b4b8346c30ac5b188f64a0[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Tue Oct 15 00:43:01 2019 +0200
+
+    se añade archivo al remoto
+
+[33mcommit 01992db039dbab281bea91ab022da276126d772c[m
+Author: AyalaFLow <56452661+AyalaFLow@users.noreply.github.com>
+Date:   Tue Oct 15 00:34:58 2019 +0200
+
+    Create masprueba.txt
+
+[33mcommit f84be09857a8be931673d83a77979d619f5825fd[m
+Author: AyalaFLow <56452661+AyalaFLow@users.noreply.github.com>
+Date:   Tue Oct 15 00:29:28 2019 +0200
+
+    Update otraPrueba.txt
+
+[33mcommit 15e885937094b934ff90a8e5efa18c9b5b4d300a[m
+Author: AyalaFLow <56452661+AyalaFLow@users.noreply.github.com>
+Date:   Tue Oct 15 00:19:14 2019 +0200
+
+    Create otraPrueba.txt
+
+[33mcommit 75a9feaa4da8f3fed45be7c8dec0416204053f26[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Tue Oct 15 00:16:27 2019 +0200
+
+    se cambia nombre.txt y contenido de hola.txt
+
+[33mcommit 846dd572fbed771b66673e802704acbf1702749d[m
+Author: AyalaFLow <56452661+AyalaFLow@users.noreply.github.com>
+Date:   Tue Oct 15 00:09:28 2019 +0200
+
+    Create pruebasfetch
+
+[33mcommit 9e1474ef24a7f6314da9f3f4706b422ae24abccc[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Mon Oct 14 20:21:45 2019 +0200
+
+    archivo borrado
+
+[33mcommit e35ad5d53f97e4882e49897b5a7e791295759a22[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Mon Oct 14 20:14:18 2019 +0200
+
+    siguiente prueba
+
+[33mcommit 65a9958f867719e8bec7e0ac4097148cfe12c682[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Mon Oct 14 19:35:42 2019 +0200
+
+    añadimos nota de comandos
+
+[33mcommit 705b0b42c1fb407b56de21774479c7b0d5461864[m
+Author: Guillermo Ayala <Guillermo.ayalacorral@gmail.com>
+Date:   Mon Oct 14 19:15:19 2019 +0200
+
+    añadimos archivo hola.txt y saludo de prueba
+
+[33mcommit bd838c47a7f011c93ef179a8ff9c6e477992789b[m
+Author: AyalaFLow <56452661+AyalaFLow@users.noreply.github.com>
+Date:   Mon Oct 14 19:02:59 2019 +0200
+
+    Create README.md
+
+[33mcommit ff6581c2b70960e2ce724931c959065aa1b6d6e6[m
+Author: AyalaFLow <56452661+AyalaFLow@users.noreply.github.com>
+Date:   Mon Oct 14 18:49:53 2019 +0200
+
+    Initial commit
